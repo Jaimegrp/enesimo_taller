@@ -18,7 +18,7 @@ app.config['DEBUG'] = True
 # Enruta la landing page (endpoint /)
 @app.route('/', methods=['GET'])
 def hello():
-    return "EL PSG pasa de calle, y una Zorra va a ganar Eurovisión"
+    return "Las tórtolas turcas tampoco son negras y naranjas, que no me la coláis!!!!"
 
 # Enruta la funcion al endpoint /api/v1/predict
 
